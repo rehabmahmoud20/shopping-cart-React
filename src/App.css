@@ -1,0 +1,21 @@
+
+.App {
+  text-align: center;
+}
+body{
+  background-color: #EAEDED;
+  /* color: black; */
+}
+.nav-bg{
+  background-color: #232F3E
+}
+.btn-color{
+  background-color: #F7CA00;
+}
+.component-height{
+  min-height: 75vh !important;
+}
+.btn-wrapper{
+  width: fit-content;
+}
+

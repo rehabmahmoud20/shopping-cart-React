@@ -1,0 +1,22 @@
+.btn-support {
+    display: flex;
+    justify-content: space-around;
+  }
+  .btn-support {
+    font-size: 20px;
+    padding: 1.5rem;
+    box-shadow: 0 0 10px white;
+    background-color: #232F3E;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    display: block;
+    outline: none;
+    transition: all 0.5s;
+  } 
+  .btn-support:hover {
+    background-color: white;
+    color: black;
+    box-shadow: none;
+  }
+  

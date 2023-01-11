@@ -1,0 +1,10 @@
+
+.text-content{
+    width:200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.content{
+    height: fit-content!important;
+}
