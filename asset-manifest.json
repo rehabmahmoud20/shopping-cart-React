@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Ecommerse-React/static/css/main.f8e75779.css",
+    "main.js": "/Ecommerse-React/static/js/main.842f3f0d.js",
+    "static/js/787.047cb09f.chunk.js": "/Ecommerse-React/static/js/787.047cb09f.chunk.js",
+    "static/media/computer.jpg": "/Ecommerse-React/static/media/computer.e8ff861b04373f645d21.jpg",
+    "static/media/emptyCart.png": "/Ecommerse-React/static/media/emptyCart.f89ce852dcc23dab8dbb.png",
+    "static/media/women.jpg": "/Ecommerse-React/static/media/women.d651135daa5df2173a49.jpg",
+    "static/media/notfound.png": "/Ecommerse-React/static/media/notfound.c99a596bcb05098cf2bc.png",
+    "static/media/mens.jpg": "/Ecommerse-React/static/media/mens.47bd821b3b3b44d2dac8.jpg",
+    "static/media/jwellary.jpg": "/Ecommerse-React/static/media/jwellary.4f39ca69de26407874b0.jpg",
+    "static/media/electronics.jpg": "/Ecommerse-React/static/media/electronics.0e3102b1d83f884891a5.jpg",
+    "static/media/womenHeader.jpg": "/Ecommerse-React/static/media/womenHeader.bc193fe4521e5c0364c5.jpg",
+    "static/media/menHeader.jpg": "/Ecommerse-React/static/media/menHeader.1a9378955972a5da6835.jpg",
+    "index.html": "/Ecommerse-React/index.html",
+    "main.f8e75779.css.map": "/Ecommerse-React/static/css/main.f8e75779.css.map",
+    "main.842f3f0d.js.map": "/Ecommerse-React/static/js/main.842f3f0d.js.map",
+    "787.047cb09f.chunk.js.map": "/Ecommerse-React/static/js/787.047cb09f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8e75779.css",
+    "static/js/main.842f3f0d.js"
+  ]
+}
