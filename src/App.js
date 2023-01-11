@@ -23,12 +23,11 @@ function App() {
       <BrowserRouter>
         <NavContainer />
         <Routes>
-          <Route path="/featured" element={<Featured />} />
-          <Route path="/shopping-cart-React" element={<Featured />} />
+        
 
           <Route path="/" element={<Shop />} />
-          <Route path="/Ecommerse-React" element={<Shop />} />
-
+          <Route path="/shopping-cart-React" element={<Shop />} />
+          <Route path="/featured" element={<Featured />} />
           <Route path="/jwellary" element={<Jwellary />} />
           <Route path="/women" element={<Women />} />
           <Route path="/elctronics" element={<Electronics />} />
