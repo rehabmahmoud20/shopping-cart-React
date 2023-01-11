@@ -24,6 +24,8 @@ function App() {
         <NavContainer />
         <Routes>
           <Route path="/featured" element={<Featured />} />
+          <Route path="/shopping-cart-React" element={<Featured />} />
+
           <Route path="/" element={<Shop />} />
           <Route path="/Ecommerse-React" element={<Shop />} />
 
